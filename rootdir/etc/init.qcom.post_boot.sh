@@ -1361,7 +1361,7 @@ case "$target" in
                   # Start Host based Touch processing
                   case "$hw_platform" in
                     "MTP" | "Surf" | "RCM" )
-                        start hbtp
+                    #    start hbtp
                         ;;
                   esac
 
